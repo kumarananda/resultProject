@@ -21,4 +21,13 @@ github
 5. after add than commit/ commit new update
 	cmd on git bash
 	- -> git commit -m "message"
+
+6. update a change
+	cmd on git bash
+	- -> git push
+
+
+after a change  1. git add .  
+		2. git commit -m "change or work detiles message"
+		3. git push 
 	
