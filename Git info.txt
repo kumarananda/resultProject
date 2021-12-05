@@ -1,0 +1,24 @@
+github
+
+***   Check project dir
+      for hiden file for Github
+
+1. git config for one time on a computer
+	cmd on git bash
+	- -> git config --global user.name "kumarananda"
+	- -> git config --global user.email "coderanandakumar@gmail.com"
+
+2. git initialisation
+	cmd on git bash
+	 - -> init git
+3. check git status
+	cmd on git bash
+	- -> git status
+4. Add all file
+	cmd on git bash
+	- -> git add .
+
+5. after add than commit/ commit new update
+	cmd on git bash
+	- -> git commit -m "message"
+	
